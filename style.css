@@ -1,0 +1,15 @@
+.container {
+    width: 100vh;
+    height: 100vh;
+    margin: auto;
+}
+
+.wrapper{
+    margin: auto;
+    width: 100%;
+}
+
+.content{
+    margin: auto;
+    width: 300px;
+}
